@@ -9,3 +9,5 @@ tips
 
 Thanks for reading this
 
+# this a nice repo
+i like this 
