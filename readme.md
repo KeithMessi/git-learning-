@@ -7,4 +7,5 @@ tips
 -practice
 =repeat
 
-thanks for rading this
+Thanks for reading this
+
