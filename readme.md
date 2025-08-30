@@ -6,3 +6,5 @@ tips
 -code
 -practice
 =repeat
+
+thanks for rading this
